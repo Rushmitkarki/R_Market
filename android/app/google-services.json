@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "924752740827",
+    "project_id": "eshoes-aa094",
+    "storage_bucket": "eshoes-aa094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924752740827:android:8405f4f6ebd43ebc2267fe",
+        "android_client_info": {
+          "package_name": "com.example.Indi_shark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924752740827-a1aa50tan91otbq32gl8rtvo526h3dm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjoXDA3FEG-PIQs0seI3iysquti_zHdFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924752740827-a1aa50tan91otbq32gl8rtvo526h3dm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924752740827-g5je6qngan0cqtdr314r37njtkmqr5dg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eShoes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924752740827:android:8d0b4dca0e585a1d2267fe",
+        "android_client_info": {
+          "package_name": "com.example.e_shoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924752740827-a1aa50tan91otbq32gl8rtvo526h3dm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjoXDA3FEG-PIQs0seI3iysquti_zHdFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924752740827-a1aa50tan91otbq32gl8rtvo526h3dm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924752740827-g5je6qngan0cqtdr314r37njtkmqr5dg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eShoes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
